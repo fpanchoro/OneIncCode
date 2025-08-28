@@ -243,6 +243,3 @@ curl -s -X POST http://localhost:8081/v1/agent \
 - Add CI configuration to run `pytest` and frontend tests on each push.
 - Add more detailed API docs or example Postman collection.
 
----
-
-If you want, I can now create a `.env.example` for the backend and add a short `Makefile` with common commands (build, up, test). Which would you prefer next?
