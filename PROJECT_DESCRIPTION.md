@@ -404,6 +404,3 @@ If you'd like, I can:
 - Add `CONTRIBUTING.md` and PR/Issue templates.
 - Add frontend tests and configure CI to run them.
 
----
-
-File created at the maintainer's request: `PROJECT_DESCRIPTION.md` (located in the repository root). If you prefer this content in Spanish, a changelog format, or a different filename such as `CHANGELOG.md`, I can convert it.
